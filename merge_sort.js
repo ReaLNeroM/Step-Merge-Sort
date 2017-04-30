@@ -1,5 +1,3 @@
-canvas.addEventListener("click", init);
-
 function shuffle(){
 	for(var i = l.length - 1; i >= 0; i--){
 		var j = Math.floor(Math.random() * (i + 1));
