@@ -11,4 +11,3 @@ var l = [];
 
 var step;
 var main_timer;
-
